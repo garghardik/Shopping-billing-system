@@ -1,0 +1,5 @@
+ 1 santra 40 2
+ 2 bread 30 2
+ 3 butter 60 4
+ 4 eggs 170 3
+ 21 Bell 100 50
